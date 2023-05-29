@@ -26,3 +26,6 @@ class GamesController < ApplicationController
     end
   end
 end
+
+
+# <%= link_to ANCHOR_TEXT, ANCHOR_URL %>
